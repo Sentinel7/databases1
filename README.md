@@ -8,4 +8,4 @@ The purpose of this database is to use data from soccer games in five different 
 
 All of the SQL queries: [soccer_queries.sql](/FirstProject-Soccer/soccer_queries.sql). I have put descriptions of each query above them as comments.
 
-There are five tables (countries), with the attributes mainly being: date of game, season, teams playing, score, etc.
+There are five tables (countries), with around 290k rows of data in total.
